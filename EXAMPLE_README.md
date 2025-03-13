@@ -4,7 +4,7 @@
 ### 2) Requirements
 - jdk 1.6+
 ### 3) Developers
-- https://developers.popbill.com
+- https://developers.popbill.com/guide/taxinvoice/java/getting-started/tutorial?fwn=springmvc
 ### 4) Service
 1. 전자세금계산서
 2. 현금영수증
